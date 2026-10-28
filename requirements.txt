@@ -1,1 +1,14 @@
-torch, timm, opencv-python, albumentations, pandas, streamlit
+numpy
+pandas
+matplotlib
+pillow
+opencv-contrib-python
+scikit-learn
+tqdm
+torch
+torchvision
+timm
+albumentations
+torchmetrics
+wandb
+streamlit
